@@ -1,0 +1,28 @@
+{
+    "name": "@tscult/decor",
+    "version": "1.0.0",
+    "description": "do this",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo 'Hi'"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TypeScript-Cult/decor.git"
+    },
+    "keywords": [
+        "discordapi",
+        "wrapper",
+        "discordapiwrapper",
+        "discordwrapper"
+    ],
+    "author": "TSCult",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/TypeScript-Cult/decor/issues"
+    },
+    "homepage": "https://github.com/TypeScript-Cult/decor#readme",
+    "dependencies": {
+        "typescript": "^4.2.4"
+    }
+}
